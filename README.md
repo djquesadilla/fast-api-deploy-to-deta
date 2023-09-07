@@ -59,11 +59,19 @@ fastapi
 
 ## Deploying the app
 
-If everything goes
+Now, you just need to push the app:
 
 ```bash
 space push
 ```
 
+And if everything is right, you should receive a happy message like this in the end:
+
+```
 🎉  Successfully pushed your code and updated your Builder instance!
-Builder instance: https://fastapisample-1-p5210071.deta.app
+Builder instance: <https://fastapisample-1-p5210071.deta.app>
+```
+
+And your API is up in the web ⛅.
+
+🏗️Happy building!
